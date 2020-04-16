@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400&display=swap');
+
+html {
+  --primary-color: #FDD202;
+}
+
+body {
+  font-family: 'Rokkitt', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #FDD202;
+}
+
+.text-align-right {
+  text-align: right;
+}
